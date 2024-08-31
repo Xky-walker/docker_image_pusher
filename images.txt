@@ -1,3 +1,2 @@
 mdolab/public
 registry.cn-hangzhou.aliyun.com/shrimp-images/docker-osx
-sickcodes/docker-osx
