@@ -1,2 +1,1 @@
-mdolab/public:u22-gcc-ompi-latest
-registry.cn-hangzhou.aliyun.com/shrimp-images/docker-osx:ventura
+mdolab/public
