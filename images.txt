@@ -1,3 +1,2 @@
 mdolab/public:u22-gcc-ompi-latest
 mdolab/public:u22-intel-impi-latest
-registry.cn-hangzhou.aliyuncs.com/shrimp-images/docker-osx:ventura
